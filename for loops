@@ -1,0 +1,8 @@
+animals=["cat","dog","horse","donkey","rabbit"]
+for nextAnimal in animals:
+    print("the animal is a",nextAnimal)
+
+
+name = str(input("enter your name>>>"))
+for i in range(3):
+    print(name)
