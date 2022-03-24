@@ -1,0 +1,14 @@
+import random
+colour =["red","blue","green","pink","brown"]
+selected = random.choice(colour)
+print(selected)
+
+import random
+coin = ["h" , "t"]
+guess = str(input("h or t?"))
+selected = random.choice(coin)
+if guess == selected:
+  print("you win")
+else:
+     print("bad luck")
+     print("it was",  selected)
