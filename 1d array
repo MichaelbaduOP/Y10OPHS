@@ -1,0 +1,6 @@
+cars = []
+cars.append(input("enter the name of an car brand>>>"))
+cars.append(input("enter the name of an car brand>>>"))
+cars.append(input("enter the name of an car brand>>>"))
+print(cars)
+
