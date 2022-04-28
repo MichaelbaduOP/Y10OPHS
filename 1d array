@@ -4,3 +4,36 @@ cars.append(input("enter the name of an car brand>>>"))
 cars.append(input("enter the name of an car brand>>>"))
 print(cars)
 
+cars = []
+
+a = True
+
+while a == True:
+    b = str(input("name a car brand or press x to exit--->>>"))
+
+
+    if b == ("x"):
+       print("exiting...")
+       a = False
+      
+
+
+
+    else:
+         cars.append(b)
+         print("the car is", cars)
+         
+         
+         people = []
+
+people.append(input("enter a name>>>"))
+people.append(input("enter a name>>>"))
+people.append(input("enter a name>>>"))
+
+while person == "no":
+    str(input("enter another name>>>"))
+    if == "no"
+        people = True
+    else:
+        print("fdkdrkggk")
+wrong btwwwwwww
